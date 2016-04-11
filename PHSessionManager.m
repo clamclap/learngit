@@ -158,7 +158,7 @@ NSString * const PHNotificationPopShareView = @"PHNotificationPopShareView";
 
 - (NSURL *)homeURL
 {
-    return [self URLWithChannelIDAndAuthKeyAndDestination:@"queryRecommenList.do?hfax:tabShow"];首页
+    return [self URLWithChannelIDAndAuthKeyAndDestination:@"queryRecommenList.do?hfax:tabShow"];首页1111
 }
 
 @end
